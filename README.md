@@ -15,10 +15,11 @@ To write a program to implement the SVM For Spam Mail Detection.
 5. End the program.
 
 ## Program:
-```
 /*
 Program to implement the SVM For Spam Mail Detection..
+
 Developed by: MAMTHA I
+
 RegisterNumber:  212222230076
 */
 ```
@@ -62,6 +63,7 @@ y_pred
 from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
+```
 
 
 ## Output:
