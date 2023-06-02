@@ -15,6 +15,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 5. End the program.
 
 ## Program:
+```
 /*
 Program to implement the SVM For Spam Mail Detection..
 
@@ -22,7 +23,7 @@ Developed by: MAMTHA I
 
 RegisterNumber:  212222230076
 */
-```
+
 import pandas as pd
 data=pd.read_csv("spam.csv",encoding='Windows-1252')
 
@@ -67,6 +68,8 @@ accuracy
 
 
 ## Output:
+### Result output:
+![model](./out1.png)
 ### Data Head:
 ![MODEL](./out2.png)
 ### Data info:
